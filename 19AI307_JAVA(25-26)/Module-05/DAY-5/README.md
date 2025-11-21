@@ -82,3 +82,4 @@ public class SwapSynchronized {
 The program successfully swaps the two integers inside a synchronized block and displays the swapped values safely.
 
 
+
